@@ -1,0 +1,11 @@
+D:\Mazen\Projects\CurrencyExchange_Practice\CurrencyExchange_Practice.Core\bin\Debug\net9.0\CurrencyExchange_Practice.Core.deps.json
+D:\Mazen\Projects\CurrencyExchange_Practice\CurrencyExchange_Practice.Core\bin\Debug\net9.0\CurrencyExchange_Practice.Core.dll
+D:\Mazen\Projects\CurrencyExchange_Practice\CurrencyExchange_Practice.Core\bin\Debug\net9.0\CurrencyExchange_Practice.Core.pdb
+D:\Mazen\Projects\CurrencyExchange_Practice\CurrencyExchange_Practice.Core\obj\Debug\net9.0\CurrencyExchange_Practice.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mazen\Projects\CurrencyExchange_Practice\CurrencyExchange_Practice.Core\obj\Debug\net9.0\CurrencyExchange_Practice.Core.AssemblyInfoInputs.cache
+D:\Mazen\Projects\CurrencyExchange_Practice\CurrencyExchange_Practice.Core\obj\Debug\net9.0\CurrencyExchange_Practice.Core.AssemblyInfo.cs
+D:\Mazen\Projects\CurrencyExchange_Practice\CurrencyExchange_Practice.Core\obj\Debug\net9.0\CurrencyExchange_Practice.Core.csproj.CoreCompileInputs.cache
+D:\Mazen\Projects\CurrencyExchange_Practice\CurrencyExchange_Practice.Core\obj\Debug\net9.0\CurrencyExchange_Practice.Core.dll
+D:\Mazen\Projects\CurrencyExchange_Practice\CurrencyExchange_Practice.Core\obj\Debug\net9.0\refint\CurrencyExchange_Practice.Core.dll
+D:\Mazen\Projects\CurrencyExchange_Practice\CurrencyExchange_Practice.Core\obj\Debug\net9.0\CurrencyExchange_Practice.Core.pdb
+D:\Mazen\Projects\CurrencyExchange_Practice\CurrencyExchange_Practice.Core\obj\Debug\net9.0\ref\CurrencyExchange_Practice.Core.dll

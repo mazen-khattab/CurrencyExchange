@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CurrencyExchange_Practice.API.props" />
+</Project>

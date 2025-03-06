@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4936A78-AFAA-4F83-99DC-7E3A67AEBD2E}|CurrencyExchange_Practice.API\\CurrencyExchange_Practice.API.csproj|d:\\mazen\\projects\\currencyexchange_practice\\currencyexchange_practice.api\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4936A78-AFAA-4F83-99DC-7E3A67AEBD2E}|CurrencyExchange_Practice.API\\CurrencyExchange_Practice.API.csproj|solutionrelative:currencyexchange_practice.api\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF50C44-D97A-496D-A689-C7FAE7444F75}|CurrencyExchange_Practice.Application\\CurrencyExchange_Practice.Application.csproj|d:\\mazen\\projects\\currencyexchange_practice\\currencyexchange_practice.application\\services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF50C44-D97A-496D-A689-C7FAE7444F75}|CurrencyExchange_Practice.Application\\CurrencyExchange_Practice.Application.csproj|solutionrelative:currencyexchange_practice.application\\services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8422307B-D646-4EEE-B78C-12F989BB4EAF}|CurrencyExchange_Practice.Infrasturcture\\CurrencyExchange_Practice.Infrasturcture.csproj|d:\\mazen\\projects\\currencyexchange_practice\\currencyexchange_practice.infrasturcture\\repositories\\currencyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8422307B-D646-4EEE-B78C-12F989BB4EAF}|CurrencyExchange_Practice.Infrasturcture\\CurrencyExchange_Practice.Infrasturcture.csproj|solutionrelative:currencyexchange_practice.infrasturcture\\repositories\\currencyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71ACB3CE-1D49-4E8C-ACBC-119A9A609083}|CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj|d:\\mazen\\projects\\currencyexchange_practice\\currencyexchange_practice.core\\interfaces\\icurrencyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71ACB3CE-1D49-4E8C-ACBC-119A9A609083}|CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj|solutionrelative:currencyexchange_practice.core\\interfaces\\icurrencyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8422307B-D646-4EEE-B78C-12F989BB4EAF}|CurrencyExchange_Practice.Infrasturcture\\CurrencyExchange_Practice.Infrasturcture.csproj|d:\\mazen\\projects\\currencyexchange_practice\\currencyexchange_practice.infrasturcture\\repositories\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8422307B-D646-4EEE-B78C-12F989BB4EAF}|CurrencyExchange_Practice.Infrasturcture\\CurrencyExchange_Practice.Infrasturcture.csproj|solutionrelative:currencyexchange_practice.infrasturcture\\repositories\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8422307B-D646-4EEE-B78C-12F989BB4EAF}|CurrencyExchange_Practice.Infrasturcture\\CurrencyExchange_Practice.Infrasturcture.csproj|d:\\mazen\\projects\\currencyexchange_practice\\currencyexchange_practice.infrasturcture\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8422307B-D646-4EEE-B78C-12F989BB4EAF}|CurrencyExchange_Practice.Infrasturcture\\CurrencyExchange_Practice.Infrasturcture.csproj|solutionrelative:currencyexchange_practice.infrasturcture\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4936A78-AFAA-4F83-99DC-7E3A67AEBD2E}|CurrencyExchange_Practice.API\\CurrencyExchange_Practice.API.csproj|d:\\mazen\\projects\\currencyexchange_practice\\currencyexchange_practice.api\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4936A78-AFAA-4F83-99DC-7E3A67AEBD2E}|CurrencyExchange_Practice.API\\CurrencyExchange_Practice.API.csproj|solutionrelative:currencyexchange_practice.api\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF50C44-D97A-496D-A689-C7FAE7444F75}|CurrencyExchange_Practice.Application\\CurrencyExchange_Practice.Application.csproj|d:\\mazen\\projects\\currencyexchange_practice\\currencyexchange_practice.application\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF50C44-D97A-496D-A689-C7FAE7444F75}|CurrencyExchange_Practice.Application\\CurrencyExchange_Practice.Application.csproj|solutionrelative:currencyexchange_practice.application\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8422307B-D646-4EEE-B78C-12F989BB4EAF}|CurrencyExchange_Practice.Infrasturcture\\CurrencyExchange_Practice.Infrasturcture.csproj|d:\\mazen\\projects\\currencyexchange_practice\\currencyexchange_practice.infrasturcture\\repositories\\countryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8422307B-D646-4EEE-B78C-12F989BB4EAF}|CurrencyExchange_Practice.Infrasturcture\\CurrencyExchange_Practice.Infrasturcture.csproj|solutionrelative:currencyexchange_practice.infrasturcture\\repositories\\countryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71ACB3CE-1D49-4E8C-ACBC-119A9A609083}|CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj|d:\\mazen\\projects\\currencyexchange_practice\\currencyexchange_practice.core\\interfaces\\icountryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71ACB3CE-1D49-4E8C-ACBC-119A9A609083}|CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj|solutionrelative:currencyexchange_practice.core\\interfaces\\icountryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 150,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrencyRepo.cs",
+              "DocumentMoniker": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Infrasturcture\\Repositories\\CurrencyRepo.cs",
+              "RelativeDocumentMoniker": "CurrencyExchange_Practice.Infrasturcture\\Repositories\\CurrencyRepo.cs",
+              "ToolTip": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Infrasturcture\\Repositories\\CurrencyRepo.cs",
+              "RelativeToolTip": "CurrencyExchange_Practice.Infrasturcture\\Repositories\\CurrencyRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T23:37:57.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICurrencyRepo.cs",
+              "DocumentMoniker": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Core\\Interfaces\\ICurrencyRepo.cs",
+              "RelativeDocumentMoniker": "CurrencyExchange_Practice.Core\\Interfaces\\ICurrencyRepo.cs",
+              "ToolTip": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Core\\Interfaces\\ICurrencyRepo.cs",
+              "RelativeToolTip": "CurrencyExchange_Practice.Core\\Interfaces\\ICurrencyRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:13:50.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyService.cs",
+              "DocumentMoniker": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Application\\Services\\CurrencyService.cs",
+              "RelativeDocumentMoniker": "CurrencyExchange_Practice.Application\\Services\\CurrencyService.cs",
+              "ToolTip": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Application\\Services\\CurrencyService.cs",
+              "RelativeToolTip": "CurrencyExchange_Practice.Application\\Services\\CurrencyService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:06:45.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.API\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "CurrencyExchange_Practice.API\\Controllers\\CurrencyController.cs",
+              "ToolTip": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.API\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "CurrencyExchange_Practice.API\\Controllers\\CurrencyController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:04:06.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Infrasturcture\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CurrencyExchange_Practice.Infrasturcture\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Infrasturcture\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "CurrencyExchange_Practice.Infrasturcture\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T22:10:03.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICountryRepo.cs",
+              "DocumentMoniker": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Core\\Interfaces\\ICountryRepo.cs",
+              "RelativeDocumentMoniker": "CurrencyExchange_Practice.Core\\Interfaces\\ICountryRepo.cs",
+              "ToolTip": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Core\\Interfaces\\ICountryRepo.cs",
+              "RelativeToolTip": "CurrencyExchange_Practice.Core\\Interfaces\\ICountryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T22:10:35.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Infrasturcture\\Repositories\\Repo.cs",
+              "RelativeDocumentMoniker": "CurrencyExchange_Practice.Infrasturcture\\Repositories\\Repo.cs",
+              "ToolTip": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Infrasturcture\\Repositories\\Repo.cs",
+              "RelativeToolTip": "CurrencyExchange_Practice.Infrasturcture\\Repositories\\Repo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T22:22:44.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "3a3b0b9c-6e9c-4a66-ad2b-ac776e7b4223",
+        "Display": 1,
+        "X": -8,
+        "Y": 27,
+        "Width": 1296,
+        "Height": 927,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.API\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "CurrencyExchange_Practice.API\\Controllers\\CountryController.cs",
+              "ToolTip": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.API\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "CurrencyExchange_Practice.API\\Controllers\\CountryController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:36:47.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Application\\Services\\CountryService.cs",
+              "RelativeDocumentMoniker": "CurrencyExchange_Practice.Application\\Services\\CountryService.cs",
+              "ToolTip": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Application\\Services\\CountryService.cs",
+              "RelativeToolTip": "CurrencyExchange_Practice.Application\\Services\\CountryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T22:05:21.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CountryRepo.cs",
+              "DocumentMoniker": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Infrasturcture\\Repositories\\CountryRepo.cs",
+              "RelativeDocumentMoniker": "CurrencyExchange_Practice.Infrasturcture\\Repositories\\CountryRepo.cs",
+              "ToolTip": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Infrasturcture\\Repositories\\CountryRepo.cs",
+              "RelativeToolTip": "CurrencyExchange_Practice.Infrasturcture\\Repositories\\CountryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T22:07:37.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
