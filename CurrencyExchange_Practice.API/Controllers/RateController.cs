@@ -40,7 +40,7 @@ namespace CurrencyExchange_Practice.API.Controllers
                 return BadRequest();
             }
 
-            var rate = await _rateService.GetById(id, false);
+            var rate = await _rateService.GetById(rate => rate.Id == id, false);
 
             return rate != null ? Ok(rate) : NotFound();
         }
@@ -51,7 +51,7 @@ namespace CurrencyExchange_Practice.API.Controllers
         public async Task<ActionResult> Add([FromBody] ExchangeRateDTO rateDTO)
         {
             var rate = _mapper.Map<ExchangeRate>(rateDTO);
-            await _rateService.AddRate(rate);
+            await _rateService.Add(rate);
             return Ok(rate);
         }
 
@@ -61,7 +61,7 @@ namespace CurrencyExchange_Practice.API.Controllers
         [Authorize(Roles = $"{StaticUserRoles.ADMIN},{StaticUserRoles.OWNER}")]
         public async Task<ActionResult> Update([FromBody] ExchangeRateDTO newRate, int id)
         {
-            var oldRate = await _rateService.GetById(id);
+            var oldRate = await _rateService.GetById(rate => rate.Id == id);
 
             if (!(oldRate is { }))
             {
@@ -70,7 +70,7 @@ namespace CurrencyExchange_Practice.API.Controllers
 
             _mapper.Map(newRate, oldRate);
 
-            await _rateService.UpdateRate(oldRate);
+            await _rateService.Update(oldRate);
 
             return Ok(newRate);
         }
@@ -78,17 +78,17 @@ namespace CurrencyExchange_Practice.API.Controllers
 
         [HttpDelete]
         [Route("delete")]
-        [Authorize(Roles = $"{StaticUserRoles.ADMIN},{StaticUserRoles.OWNER}")]
+        [Authorize(Roles = $"{StaticUserRoles.ADMIN},{StaticUserRoles.OWNER}"]
         public async Task<ActionResult> Delete(int id)
         {
-            var rate = await _rateService.GetById(id, false);
+            var rate = await _rateService.GetById(rate => rate.Id == id, false);
 
             if (!(rate is { }))
             {
                 return NotFound();
             }
 
-            await _rateService.DeleteRate(rate);
+            await _rateService.Delete(rate);
 
             return Ok();
         }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.API\\CurrencyExchange_Practice.API.csproj": {}
+    "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.API\\CurrencyExchange_Practice.API.csproj": {}
   },
   "projects": {
-    "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.API\\CurrencyExchange_Practice.API.csproj": {
+    "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.API\\CurrencyExchange_Practice.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.API\\CurrencyExchange_Practice.API.csproj",
+        "projectUniqueName": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.API\\CurrencyExchange_Practice.API.csproj",
         "projectName": "CurrencyExchange_Practice.API",
-        "projectPath": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.API\\CurrencyExchange_Practice.API.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.API\\obj\\",
+        "projectPath": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.API\\CurrencyExchange_Practice.API.csproj",
+        "packagesPath": "C:\\Users\\HOMEi\\.nuget\\packages\\",
+        "outputPath": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HOMEi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,14 +32,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Application\\CurrencyExchange_Practice.Application.csproj": {
-                "projectPath": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Application\\CurrencyExchange_Practice.Application.csproj"
+              "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Application\\CurrencyExchange_Practice.Application.csproj": {
+                "projectPath": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Application\\CurrencyExchange_Practice.Application.csproj"
               },
-              "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj": {
-                "projectPath": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj"
+              "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj": {
+                "projectPath": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj"
               },
-              "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Infrasturcture\\CurrencyExchange_Practice.Infrasturcture.csproj": {
-                "projectPath": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Infrasturcture\\CurrencyExchange_Practice.Infrasturcture.csproj"
+              "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Infrasturcture\\CurrencyExchange_Practice.Infrasturcture.csproj": {
+                "projectPath": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Infrasturcture\\CurrencyExchange_Practice.Infrasturcture.csproj"
               }
             }
           }
@@ -52,9 +52,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -126,24 +126,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Application\\CurrencyExchange_Practice.Application.csproj": {
+    "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Application\\CurrencyExchange_Practice.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Application\\CurrencyExchange_Practice.Application.csproj",
+        "projectUniqueName": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Application\\CurrencyExchange_Practice.Application.csproj",
         "projectName": "CurrencyExchange_Practice.Application",
-        "projectPath": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Application\\CurrencyExchange_Practice.Application.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Application\\obj\\",
+        "projectPath": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Application\\CurrencyExchange_Practice.Application.csproj",
+        "packagesPath": "C:\\Users\\HOMEi\\.nuget\\packages\\",
+        "outputPath": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HOMEi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -158,8 +158,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj": {
-                "projectPath": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj"
+              "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj": {
+                "projectPath": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj"
               }
             }
           }
@@ -172,9 +172,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -195,24 +195,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj": {
+    "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj",
+        "projectUniqueName": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj",
         "projectName": "CurrencyExchange_Practice.Core",
-        "projectPath": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Core\\obj\\",
+        "projectPath": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj",
+        "packagesPath": "C:\\Users\\HOMEi\\.nuget\\packages\\",
+        "outputPath": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HOMEi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -237,9 +237,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -260,24 +260,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Infrasturcture\\CurrencyExchange_Practice.Infrasturcture.csproj": {
+    "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Infrasturcture\\CurrencyExchange_Practice.Infrasturcture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Infrasturcture\\CurrencyExchange_Practice.Infrasturcture.csproj",
+        "projectUniqueName": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Infrasturcture\\CurrencyExchange_Practice.Infrasturcture.csproj",
         "projectName": "CurrencyExchange_Practice.Infrasturcture",
-        "projectPath": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Infrasturcture\\CurrencyExchange_Practice.Infrasturcture.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Infrasturcture\\obj\\",
+        "projectPath": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Infrasturcture\\CurrencyExchange_Practice.Infrasturcture.csproj",
+        "packagesPath": "C:\\Users\\HOMEi\\.nuget\\packages\\",
+        "outputPath": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Infrasturcture\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HOMEi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -292,11 +292,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Application\\CurrencyExchange_Practice.Application.csproj": {
-                "projectPath": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Application\\CurrencyExchange_Practice.Application.csproj"
+              "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Application\\CurrencyExchange_Practice.Application.csproj": {
+                "projectPath": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Application\\CurrencyExchange_Practice.Application.csproj"
               },
-              "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj": {
-                "projectPath": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj"
+              "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj": {
+                "projectPath": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Core\\CurrencyExchange_Practice.Core.csproj"
               }
             }
           }
@@ -309,9 +309,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -356,7 +356,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

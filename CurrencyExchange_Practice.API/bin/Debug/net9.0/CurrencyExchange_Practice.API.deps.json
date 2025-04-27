@@ -2094,7 +2094,7 @@
         },
         "runtime": {
           "CurrencyExchange_Practice.Application.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -2102,7 +2102,7 @@
       "CurrencyExchange_Practice.Core/1.0.0": {
         "runtime": {
           "CurrencyExchange_Practice.Core.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -2118,7 +2118,7 @@
         },
         "runtime": {
           "CurrencyExchange_Practice.Infrasturcture.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

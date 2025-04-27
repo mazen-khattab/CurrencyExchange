@@ -334,3 +334,14 @@ D:\Mazen\Projects\CurrencyExchange_Practice\CurrencyExchange_Practice.Tests\obj\
 D:\Mazen\Projects\CurrencyExchange_Practice\CurrencyExchange_Practice.Tests\obj\Debug\net9.0\CurrencyExchange_Practice.Tests.pdb
 D:\Mazen\Projects\CurrencyExchange_Practice\CurrencyExchange_Practice.Tests\obj\Debug\net9.0\CurrencyExchange_Practice.Tests.genruntimeconfig.cache
 D:\Mazen\Projects\CurrencyExchange_Practice\CurrencyExchange_Practice.Tests\obj\Debug\net9.0\ref\CurrencyExchange_Practice.Tests.dll
+D:\Mazen\CurrencyExchange\CurrencyExchange_Practice.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_CurrencyExchange_Practice.Tests
+D:\Mazen\CurrencyExchange\CurrencyExchange_Practice.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_CurrencyExchange_Practice.Tests
+D:\Mazen\CurrencyExchange\CurrencyExchange_Practice.Tests\obj\Debug\net9.0\CurrencyExchange_Practice.Tests.csproj.AssemblyReference.cache
+D:\Mazen\CurrencyExchange\CurrencyExchange_Practice.Tests\obj\Debug\net9.0\CurrencyExchange_Practice.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mazen\CurrencyExchange\CurrencyExchange_Practice.Tests\obj\Debug\net9.0\CurrencyExchange_Practice.Tests.AssemblyInfoInputs.cache
+D:\Mazen\CurrencyExchange\CurrencyExchange_Practice.Tests\obj\Debug\net9.0\CurrencyExchange_Practice.Tests.AssemblyInfo.cs
+D:\Mazen\CurrencyExchange\CurrencyExchange_Practice.Tests\obj\Debug\net9.0\CurrencyExchange_Practice.Tests.csproj.CoreCompileInputs.cache
+D:\Mazen\CurrencyExchange\CurrencyExchange_Practice.Tests\obj\Debug\net9.0\CurrencyExchange_Practice.Tests.sourcelink.json
+D:\Mazen\CurrencyExchange\CurrencyExchange_Practice.Tests\obj\Debug\net9.0\CurrencyExchange_Practice.Tests.dll
+D:\Mazen\CurrencyExchange\CurrencyExchange_Practice.Tests\obj\Debug\net9.0\refint\CurrencyExchange_Practice.Tests.dll
+D:\Mazen\CurrencyExchange\CurrencyExchange_Practice.Tests\obj\Debug\net9.0\CurrencyExchange_Practice.Tests.pdb

@@ -25,6 +25,10 @@ namespace CurrencyExchange_Practice.Infrasturcture.Extensions
             services.AddScoped(typeof(ICurrencyRepo), typeof(CurrencyRepo));
             services.AddScoped(typeof(IRateRepo), typeof(RateRepo));
             services.AddScoped(typeof(IUnitOfWork), typeof(UnitOfWork));
+            services.AddScoped(typeof(IService<>), typeof(Service<>));
+            services.AddScoped(typeof(ICurrencyService), typeof(CurrencyService));
+            services.AddScoped(typeof(ICountryService), typeof(CountryService));
+            services.AddScoped(typeof(IRateService), typeof(RateService));
             services.AddScoped<CountryService>();
             services.AddScoped<CurrencyService>();
             services.AddScoped<RateService>();

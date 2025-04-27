@@ -24,11 +24,12 @@ namespace CurrencyExchange_Practice.API.Controllers
 
         [HttpGet]
         [Route("GetAll")]
-        //[Authorize(Roles = $"{StaticUserRoles.ADMIN},{StaticUserRoles.OWNER}, {StaticUserRoles.USER}")]
+        [Authorize(Roles = $"{StaticUserRoles.ADMIN},{StaticUserRoles.OWNER}, {StaticUserRoles.USER}")]
         public async Task<ActionResult<List<Currency>>> Getall() => Ok(await _currencyService.GetAll());
 
 
         [HttpGet("GetCurrencyByCode")]
+        [Authorize(Roles = $"{StaticUserRoles.ADMIN},{StaticUserRoles.OWNER}, {StaticUserRoles.USER}")]
         public async Task<ActionResult<IEnumerable<Currency>>> GetCurrencyByCode([FromQuery] string code) => Ok (await _currencyService.GetCurrencyByCode(code));
 
 
@@ -49,7 +50,7 @@ namespace CurrencyExchange_Practice.API.Controllers
                 return BadRequest();
             }
 
-            var currency = await _currencyService.GetById(id);
+            var currency = await _currencyService.GetById(currency => currency.Id == id);
 
             return currency != null ? Ok(currency) : NotFound();
         }
@@ -64,7 +65,7 @@ namespace CurrencyExchange_Practice.API.Controllers
         public async Task<ActionResult> Add([FromBody] CurrencyDTO currencyDTO)
         {
             var currency = _mapper.Map<Currency>(currencyDTO);
-            await _currencyService.AddCurrency(currency);
+            await _currencyService.Add(currency);
             return Ok(currency);
         }
 
@@ -74,7 +75,7 @@ namespace CurrencyExchange_Practice.API.Controllers
         [Authorize(Roles = $"{StaticUserRoles.ADMIN},{StaticUserRoles.OWNER}")]
         public async Task<ActionResult> Update([FromBody] CurrencyDTO newCurrency, int id)
         {
-            var oldCurrency = await _currencyService.GetById(id);
+            var oldCurrency = await _currencyService.GetById(currency => currency.Id == id);
 
             if (!(oldCurrency is { }))
             {
@@ -83,7 +84,7 @@ namespace CurrencyExchange_Practice.API.Controllers
 
             _mapper.Map(newCurrency, oldCurrency);
 
-            await _currencyService.UpdateCurrency(oldCurrency);
+            await _currencyService.Update(oldCurrency);
 
             return Ok(newCurrency);
         }
@@ -94,14 +95,14 @@ namespace CurrencyExchange_Practice.API.Controllers
         [Authorize(Roles = $"{StaticUserRoles.ADMIN},{StaticUserRoles.OWNER}")]
         public async Task<ActionResult> Delete(int id)
         {
-            var currency = await _currencyService.GetById(id, false);
+            var currency = await _currencyService.GetById(currency => currency.Id == id, false);
 
             if (!(currency is { }))
             {
                 return NotFound();
             }
 
-            await _currencyService.DeleteCurrency(currency);
+            await _currencyService.Delete(currency);
 
             return Ok();
         }

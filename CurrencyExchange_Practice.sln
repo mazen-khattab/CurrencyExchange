@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyExchange_Practice.A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyExchange_Practice.Infrasturcture", "CurrencyExchange_Practice.Infrasturcture\CurrencyExchange_Practice.Infrasturcture.csproj", "{8422307B-D646-4EEE-B78C-12F989BB4EAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyExchange_Practice.Tests", "CurrencyExchange_Practice.Tests\CurrencyExchange_Practice.Tests.csproj", "{04148744-F849-4C34-92DC-D1C56F7F9752}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,10 +33,6 @@ Global
 		{8422307B-D646-4EEE-B78C-12F989BB4EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8422307B-D646-4EEE-B78C-12F989BB4EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8422307B-D646-4EEE-B78C-12F989BB4EAF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{04148744-F849-4C34-92DC-D1C56F7F9752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{04148744-F849-4C34-92DC-D1C56F7F9752}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{04148744-F849-4C34-92DC-D1C56F7F9752}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{04148744-F849-4C34-92DC-D1C56F7F9752}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

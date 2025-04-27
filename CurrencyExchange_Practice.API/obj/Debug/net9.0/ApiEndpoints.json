@@ -134,12 +134,12 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "pageNumber",
+        "Name": "pageSize",
         "Type": "System.Int32",
         "IsRequired": false
       },
       {
-        "Name": "pageSize",
+        "Name": "pageNumber",
         "Type": "System.Int32",
         "IsRequired": false
       }

@@ -23,6 +23,9 @@ namespace CurrencyExchange_Practice.Infrasturcture.Repositories
         public IRateRepo RateRepo { get; private set; }
 
         public void Dispose() => _context.Dispose();
+
+        public IRepo<T> GetRepo<T>() where T : class => new Repo<T>(_context);
+
         public async Task<int> SaveChanges() => await _context.SaveChangesAsync();
     }
 }

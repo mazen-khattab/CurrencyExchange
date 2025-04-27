@@ -8869,23 +8869,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pc\\.nuget\\packages\\": {},
+    "C:\\Users\\HOMEi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Tests\\CurrencyExchange_Practice.Tests.csproj",
+      "projectUniqueName": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Tests\\CurrencyExchange_Practice.Tests.csproj",
       "projectName": "CurrencyExchange_Practice.Tests",
-      "projectPath": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Tests\\CurrencyExchange_Practice.Tests.csproj",
-      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.Tests\\obj\\",
+      "projectPath": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Tests\\CurrencyExchange_Practice.Tests.csproj",
+      "packagesPath": "C:\\Users\\HOMEi\\.nuget\\packages\\",
+      "outputPath": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HOMEi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8900,8 +8900,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.API\\CurrencyExchange_Practice.API.csproj": {
-              "projectPath": "D:\\Mazen\\Projects\\CurrencyExchange_Practice\\CurrencyExchange_Practice.API\\CurrencyExchange_Practice.API.csproj"
+            "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.API\\CurrencyExchange_Practice.API.csproj": {
+              "projectPath": "D:\\Mazen\\CurrencyExchange\\CurrencyExchange_Practice.API\\CurrencyExchange_Practice.API.csproj"
             }
           }
         }
@@ -8914,9 +8914,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -8963,7 +8963,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
